@@ -10,9 +10,9 @@ Application troubleshooting.
 ### Work Experience
 
 Staff Augmentation, CyberSecurity Services at Constellation Energy
-• Administer SailPoint Identity Governance (IGA) to streamline the onboarding process for both disconnected and connected applications, contributing to infrastructure efficiency.
-• Leverage CyberArk Privilege Access Management (PAM) software to enhance the security of critical resources, aligning with advanced IT security protocols
-• Execute daily updates and configurations for workflows associated with business-critical roles and entitlements, optimizing application performance and IT reliability
+- Administer SailPoint Identity Governance (IGA) to streamline the onboarding process for both disconnected and connected applications, contributing to infrastructure efficiency.
+- Leverage CyberArk Privilege Access Management (PAM) software to enhance the security of critical resources, aligning with advanced IT security protocols
+- Execute daily updates and configurations for workflows associated with business-critical roles and entitlements, optimizing application performance and IT reliability
 
 Office Clerk Intern at The Environmental Control Board
 • Performed administrative tasks, including managing office documents, printing, and faxing to support day-to-day operations.
